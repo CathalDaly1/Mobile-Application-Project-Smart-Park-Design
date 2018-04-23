@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "846109543294",
+    "firebase_url": "https://parksmartdesign.firebaseio.com",
+    "project_id": "parksmartdesign",
+    "storage_bucket": "parksmartdesign.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846109543294:android:625402be8aa28c73",
+        "android_client_info": {
+          "package_name": "com.example.c16208102.parksmartdesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846109543294-1chnqjcv3tas9daplf3a3bnosbfj5hp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.c16208102.parksmartdesign",
+            "certificate_hash": "62767a34c95ca93215d8233eb852688704373d19"
+          }
+        },
+        {
+          "client_id": "846109543294-js5jgd13cbecnu1keahf8erjtlo3m28o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5VCvFyK6tBGPNLU8hOiUgZQp7dvBcB4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846109543294-js5jgd13cbecnu1keahf8erjtlo3m28o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
